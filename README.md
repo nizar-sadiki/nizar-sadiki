@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 40px;">Hi 👋, I'm Nizar</h1>
----
+### Hi 👋, I'm Nizar
+
 
 
 
