@@ -20,7 +20,7 @@
 ---
 
 - 🌱 I’m currently learning **React, Laravel, and TypeScript**  
-- 📫 How to reach me: **god.nizaryt10@gmail.com**
+- 📫 How to reach me: [**Click Here**](god.nizaryt10@gmail.com)
 
 ---
 
