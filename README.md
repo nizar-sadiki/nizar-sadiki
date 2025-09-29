@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Nizar</h1>
+<h1 align="center">Hi, I'm Nizar <br/>  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=253900&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=253900&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+ 
 </p>
 
 ---
@@ -49,7 +49,7 @@ Technologies I’m working with:
 <p align="left">
   <!-- Instagram -->
   <a href="https://instagram.com/p66px_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Instagram" height="30" width="40" />
   </a>
 
   <!-- Gmail -->
