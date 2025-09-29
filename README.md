@@ -1,15 +1,10 @@
 <h1 align="center">Hi , I'm Nizar</h1>
----
+
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=b3a688&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=b3a688&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
-
-### GitHub Stats
-
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrrs&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
