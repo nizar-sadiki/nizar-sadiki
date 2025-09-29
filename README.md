@@ -22,17 +22,13 @@
 
 - 🌱 I’m currently learning  <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  </a>
-
-  <a href="https://laravel.com/" target="_blank">
+  </a><a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  </a> <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   </a>
 
-- 📫 How to reach me: <a href="mailto:god.nizaryt10@gmail.com" target="_blank">📧 Click me</a>  
+- 📫 How to reach me: <a href="mailto:god.nizaryt10@gmail.com" target="_blank">Click me</a>  
 
 ---
 
