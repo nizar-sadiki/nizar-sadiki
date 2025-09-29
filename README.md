@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Nizar</h1>
+<p align="center">Hi , I'm Nizar</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=b3a688&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
@@ -26,27 +26,48 @@
 
 ---
 
-###  About Me
+### About Me
 
-- 🌱 I’m currently learning :  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  </a><a href="https://laravel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  </a> <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  </a>
+I am a Fullstack Development student with a strong passion for building modern web applications. Currently, I am learning **React**, **Laravel**, and **TypeScript** to strengthen my skills and become a professional Software Engineer. I enjoy solving problems, creating clean and maintainable code, and continuously improving my knowledge in web development.
 
-- 📫 How to reach me: <a href="mailto:god.nizaryt10@gmail.com" target="_blank">Click me</a>  
+Technologies I’m working with:  
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</a>
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</a>
 
 ---
 
 ### Connect with Me
 
 <p align="left">
+  <!-- Instagram -->
   <a href="https://instagram.com/p66px_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:god.nizaryt10@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-icon.svg" alt="Gmail" height="30" width="40" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/X7KIRA999.FF/)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/VNNX_76" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
 </p>
+
+
 
 ---
 
