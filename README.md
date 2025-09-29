@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nizar</h1>
 
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&pause=1000&color=28A745&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+engineer" alt="Typing SVG" /></a></h3>
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+engineer" alt="Typing SVG" /></a></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nzrrs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
