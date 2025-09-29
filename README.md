@@ -10,8 +10,6 @@
 
 
 
----
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrrs&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
