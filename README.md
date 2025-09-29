@@ -1,4 +1,4 @@
-### Hi 👋, I'm Nizar
+<p align="center" style="font-style:50px;" >Hi 👋, I'm Nizar</p>
 
 
 
