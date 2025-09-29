@@ -1,7 +1,7 @@
-<p align="center">Hi , I'm Nizar</p>
+<h1 align="center">Hi, I'm Nizar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=b3a688&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=253900&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,6 +31,7 @@
 I am a Fullstack Development student with a strong passion for building modern web applications. Currently, I am learning **React**, **Laravel**, and **TypeScript** to strengthen my skills and become a professional Software Engineer. I enjoy solving problems, creating clean and maintainable code, and continuously improving my knowledge in web development.
 
 Technologies I’m working with:  
+<br/>
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </a>
@@ -40,7 +41,7 @@ Technologies I’m working with:
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </a>
-
+<br/>
 ---
 
 ### Connect with Me
