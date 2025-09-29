@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=0b0d0c&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
