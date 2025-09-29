@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I'm Nizar Sadiki </h1>
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ1YXM0eHg1bTA4Yjd3YW5xcWxjemN0czdvNnZnb2JoYmYza3Q3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" alt="Banner" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ1YXM0eHg1bTA4Yjd3YW5xcWxjemN0czdvNnZnb2JoYmYza3Q3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" alt="Banner" width="300"/>
 </p>
 
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
