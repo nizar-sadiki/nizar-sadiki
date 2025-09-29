@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning  <a href="https://reactjs.org/" target="_blank">
+- 🌱 I’m currently learning :  <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   </a><a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
