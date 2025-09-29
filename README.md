@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&duration=4000&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Hey%2C+I%E2%80%99m+Nizar;Full-Stack+developer" alt="Typing SVG" /></p>
+<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&duration=4000&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Hey%2C+I%E2%80%99m+Nizar;Full-Stack+Developer" alt="Typing SVG" /></p>
 
 ---
 <p align="center">
