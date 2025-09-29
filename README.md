@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nizar</h1>
+<h1 align="center">Hi 👋, I'm Nizar Sadiki</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
@@ -20,7 +20,18 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **React, Laravel, and TypeScript**  
+- 🌱 I’m currently learning  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  </a>
+
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  </a>
+
 - 📫 How to reach me: <a href="mailto:god.nizaryt10@gmail.com" target="_blank">📧 Click me</a>  
 
 ---
