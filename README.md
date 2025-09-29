@@ -15,7 +15,7 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Nizar</h1>
-<h3>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=25&pause=1000&color=28A745&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+engineer)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=25&pause=1000&color=28A745&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzrrs&label=Profile%20views&color=0e75b6&style=flat" alt="nzrrs" /> </p>
 
