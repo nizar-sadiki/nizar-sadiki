@@ -1,4 +1,5 @@
-<p align="center" style="font-style:50px;" >Hi 👋, I'm Nizar</p>
+<h1 align="center" style="font-style:50px;" >Hi 👋, I'm Nizar</h1>
+
 
 
 
@@ -7,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=59baea&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
 </h1>
 
+
+---
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrrs&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
