@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Nizar</h1>
-===
+<br/>
+<br/>
 <h1 align="center" style="margin-top: 15px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&pause=1000&color=59baea&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=20&pause=1000&color=59baea&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
 </h1>
 
 
