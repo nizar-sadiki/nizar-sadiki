@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Rmd2czeW9rOHFuaGkxYmo4eG8xdHozNXJ4ZDVuY2dzemM0ZG5oMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" alt="Banner" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ1YXM0eHg1bTA4Yjd3YW5xcWxjemN0czdvNnZnb2JoYmYza3Q3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" alt="Banner" width="600"/>
 </p>
 
 <p align="center">
@@ -11,10 +11,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=nzrrs&theme=gruvbox&margin-w=10&margin-h=10" alt="trophies"/>
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - 🌱 I’m currently learning :  <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -28,7 +33,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://instagram.com/p66px_" target="_blank">
@@ -38,7 +43,7 @@
 
 ---
 
-### 🚀 Languages and Tools
+### Languages and Tools
 
 <p align="left">
 
@@ -98,7 +103,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrrs&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
