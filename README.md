@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&duration=4000&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Hey%2C+I%E2%80%99m+Nizar;Full-Stack+Developer" alt="Typing SVG" /></p>
+<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=32&duration=4000&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Hey%2C+I%E2%80%99m+Nizar;Full-Stack+Developer" alt="Typing SVG" /></p>
 
 ---
 <p align="center">
@@ -95,9 +95,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/vndxz/" target="_blank">
-    <img src="https://www.codewars.com/users/Nzrr/badges/large" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/LeetCode-vndxz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://www.readmecodegen.com/api/leetcode-stats/vndxz" alt="LeetCode Stats" width="400" />
