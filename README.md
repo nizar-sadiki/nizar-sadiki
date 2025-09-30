@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://www.readmecodegen.com/api/leetcode-stats/vndxz" alt="LeetCode Stats" width="400" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&locale=en&theme=github_dark" alt="GitHub stats" />
 </p>
 
@@ -100,11 +104,6 @@
   <a href="https://leetcode.com/u/vndxz/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-vndxz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://www.readmecodegen.com/api/leetcode-stats/vndxz" alt="LeetCode Stats" width="400" />
 </p>
 
 
