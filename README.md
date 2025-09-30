@@ -38,6 +38,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.codewars.com/users/Nzrr" target="_blank">
+    <img src="https://www.codewars.com/users/Nzrr/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
+
+
 ---
 
 ### Connect with Me
