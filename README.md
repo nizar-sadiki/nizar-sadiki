@@ -38,13 +38,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.codewars.com/users/Nzrr" target="_blank">
-    <img src="https://www.codewars.com/users/Nzrr/badges/large" alt="Codewars Badge" />
-  </a>
-</p>
-
-
 ---
 
 ### Connect with Me
@@ -90,4 +83,24 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
 <br />
+
+
+### My CodeWard && LeetCode Accounts
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Nzrr" target="_blank">
+    <img src="https://www.codewars.com/users/Nzrr/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/vndxz/" target="_blank">
+    <img src="https://www.codewars.com/users/Nzrr/badges/large" alt="LeetCode Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://www.readmecodegen.com/api/leetcode-stats/vndxz" alt="LeetCode Stats" width="400" />
+</p>
+
 
