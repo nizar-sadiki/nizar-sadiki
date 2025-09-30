@@ -92,7 +92,7 @@
 
 <p align="center">
   <a href="https://www.codewars.com/users/Nzrr" target="_blank">
-    <img src="https://www.codewars.com/users/Nzrr/badges/micro" alt="Codewars Badge" />
+    <img src="https://www.codewars.com/users/Nzrr/badges/small" alt="Codewars Badge" />
   </a>
 </p>
 <br/>
