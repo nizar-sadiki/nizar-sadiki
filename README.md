@@ -5,9 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrrs&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.readmecodegen.com/api/leetcode-stats/vndxz" alt="LeetCode Stats" width="400" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&locale=en&theme=github_dark" alt="GitHub stats" />
