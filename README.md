@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nizar-sadiki&theme=github-dark-blue" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nizar-sadiki" alt="GitHub streak" />
 </p>
 
 <p align="center">
