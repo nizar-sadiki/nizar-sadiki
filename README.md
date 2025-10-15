@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrrs&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nizar-sadiki&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 <!-- <p align="center">
@@ -10,16 +10,16 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&locale=en&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nizar-sadiki&show_icons=true&locale=en&theme=github_dark" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzrrs&theme=github-dark-blue" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nizar-sadiki&theme=github-dark-blue" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=nzrrs&theme=gruvbox&margin-w=10&margin-h=10" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nizar-sadiki&theme=gruvbox&margin-w=10&margin-h=10" alt="trophies"/>
   </a>
 </p>
 
