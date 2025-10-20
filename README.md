@@ -1,12 +1,5 @@
 <h1 align="center">Hi, I’m NzzrS !</h1>
 
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nzrrs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="163" alt="streak graph"  />
-</div>
-
 ###
 
 <br clear="both">
@@ -74,4 +67,10 @@ I’m particularly focused on **React**, **Tailwind CSS**, **PHP**, and **MySQL*
 
 
 ## My CodeWard / LeetCode Accounts
-<p align="center"> <a href="https://www.codewars.com/users/Nzrr" target="_blank"> <img src="https://www.codewars.com/users/Nzrr/badges/small" alt="Codewars Badge" /> </a> </p> <br/> <p align="center"> <a href="https://leetcode.com/u/vndxz/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-vndxz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" /> </a> </p>
+<p align="center"> <a href="https://www.codewars.com/users/Nzrr" target="_blank"> <img src="https://www.codewars.com/users/Nzrr/badges/small" alt="Codewars Badge" /> </a> </p> <br/> <p align="center"> <a href="https://leetcode.com/u/vndxz/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-vndxz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" /> </a> </p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nzrrs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="163" alt="streak graph"  />
+</div>
