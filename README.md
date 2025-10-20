@@ -14,7 +14,7 @@ I enjoy solving problems, writing clean and maintainable code, and continuously 
 Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing chess, and going to the gym.
 </p>
 
----
+
 
 ### Technologies I’m Learning
 
@@ -24,7 +24,6 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
   </a>
 </p>
 
----
 
 ### Languages and Tools
 
@@ -41,7 +40,6 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
   <img alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&theme=dark" alt="nzrrs's GitHub stats" height="165"/>
