@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm [NzzrS](https://github.com/nzrrs)!
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/nzrrs" target="_blank">NzzrS</a>!
 </h1>
+
 
 ###
 
