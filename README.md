@@ -12,13 +12,15 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="256" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpxd2R6bW9oejFiNjJoeWw3NDdmODd2OXY0Mnp3cGhqZGcybXVrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nzrrs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=nzrrs&theme=chalk&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="151" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nzrrs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="163" alt="streak graph"  />
 </div>
 
 ###
