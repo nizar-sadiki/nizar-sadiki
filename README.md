@@ -2,9 +2,9 @@
   Hi, I'm <a href="https://github.com/nzrrs"  target="_blank">nzzrs</a>!
 </h1>
 
-<h3 align="center">welcome to my GitHub profile :3</h3>
+<br/>
 
----
+<h3 align="center">welcome to my GitHub profile :3</h3>
 
 <p align="center">
 I'm a Fullstack Developer student with a strong passion for building modern and creative web applications.  
@@ -45,7 +45,6 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&theme=dark" alt="nzrrs's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrrs&layout=compact&theme=dark" alt="Top Languages" height="165"/>
 </p>
 
 
