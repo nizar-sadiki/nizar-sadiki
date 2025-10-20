@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm <a href="https://github.com/nzrrs"  target="_blank">nzzrs</a>!
 </h1>
-
+---
 <br/>
 
 <h3 align="center">welcome to my GitHub profile :3</h3>
