@@ -22,8 +22,9 @@
 <img align="left" height="242" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpxd2R6bW9oejFiNjJoeWw3NDdmODd2OXY0Mnp3cGhqZGcybXVrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
 
 ###
-
+<div>
 <h2 align="center">Skills / Tech Stack</h2>
+</div>
 
 ###
 
