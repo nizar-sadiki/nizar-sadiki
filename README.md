@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3 align="center">welcome to my GitHub profile :3</h3>
+<h3 align="center">Welcome to my GitHub profile</h3>
 
 ---
 
@@ -18,7 +18,7 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
 
 ---
 
-### Technologies I’m Learning
+<h2 align="center">Technologies I’m Learning</h2>
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
@@ -28,7 +28,7 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
 
 ---
 
-### Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <img alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -45,13 +45,15 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
 
 ---
 
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&theme=dark" alt="nzrrs's GitHub stats" height="165"/>
 </p>
 
 ---
 
-### Codewars & LeetCode
+<h2 align="center">Codewars & LeetCode</h2>
 
 <p align="center">
   <a href="https://www.codewars.com/users/Nzrr" target="_blank">
@@ -63,10 +65,4 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
   <a href="https://leetcode.com/u/vndxz/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-vndxz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <strong>"Code. Learn. Improve. Repeat."</strong>
 </p>
