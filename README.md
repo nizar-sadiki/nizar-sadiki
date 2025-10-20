@@ -4,9 +4,11 @@
 
 <h3 align="center">welcome to my GitHub profile :3</h3>
 
+---
+
 <p align="center">
 I'm a Fullstack Developer student with a strong passion for building modern and creative web applications.  
-Currently learning React to strengthen my front-end skills and become a professional **Software Engineer**.  
+Currently learning React to strengthen my front-end skills and become a professional Software Engineer.  
 I enjoy solving problems, writing clean and maintainable code, and continuously improving my knowledge in web development.
 
 Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing chess, and going to the gym.
@@ -41,7 +43,11 @@ Outside of tech, I’m someone who enjoys reading, journaling, doodling, playing
 
 ---
 
-![nzrrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&theme=dark" alt="nzrrs's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrrs&layout=compact&theme=dark" alt="Top Languages" height="165"/>
+</p>
+
 
 <!--
 ### Connect with Me
