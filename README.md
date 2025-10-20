@@ -46,9 +46,9 @@ I’m a Fullstack Developer student passionate about creating **modern web appli
 I’m particularly focused on **React**, **Tailwind CSS**, **PHP**, and **MySQL**, aiming to build interactive and responsive web solutions.
 
 ###
-<h2 align="center">Skills / Tech Stack</h2>
 
-###
+### Skills / Tech Stack
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
@@ -74,4 +74,3 @@ I’m particularly focused on **React**, **Tailwind CSS**, **PHP**, and **MySQL*
 
 ### My CodeWard && LeetCode Accounts
 <p align="center"> <a href="https://www.codewars.com/users/Nzrr" target="_blank"> <img src="https://www.codewars.com/users/Nzrr/badges/small" alt="Codewars Badge" /> </a> </p> <br/> <p align="center"> <a href="https://leetcode.com/u/vndxz/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-vndxz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" /> </a> </p>
-###
