@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I’m NzzrS !</h1>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="151" alt="stats graph"  />
-</div>
 
 ###
 
@@ -23,17 +18,36 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/_nezzarr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
+  </a>
+  <a href="https://dev.to/nzrrs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Dev.to" />
+  </a>
+  <a href="mailto:god.nizaryt10@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/p66px_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
+###
+
+<br clear="both">
+
+## About Me
+I’m a Fullstack Developer student passionate about creating **modern web applications**. I enjoy learning new technologies, exploring frontend and backend development, and applying my skills in real projects.  
+I’m particularly focused on **React**, **Tailwind CSS**, **PHP**, and **MySQL**, aiming to build interactive and responsive web solutions.
+
+---
 <h2 align="center">Skills / Tech Stack</h2>
 
 ###
