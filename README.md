@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">Skills / Tech Stack</h2>
+<h2 align="center">Skills / Tech Stack</h2>
 
 ###
 
