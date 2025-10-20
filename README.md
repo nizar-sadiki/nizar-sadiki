@@ -1,29 +1,4 @@
-<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=32&duration=4000&pause=1000&color=28A745&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Hey%2C+I%E2%80%99m+Nizar;Full-Stack+Developer" alt="Typing SVG" /></p>
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrrs&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://www.readmecodegen.com/api/leetcode-stats/vndxz" alt="LeetCode Stats" width="400" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzrrs&show_icons=true&locale=en&theme=github_dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzrrs&theme=github-dark-blue" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=nzrrs&theme=gruvbox&margin-w=10&margin-h=10" alt="trophies"/>
-  </a>
-</p>
-
----
 
 ### About Me
 
