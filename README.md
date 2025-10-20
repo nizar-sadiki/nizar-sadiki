@@ -35,8 +35,6 @@
 
 <br clear="both">
 
-###
-
 ## About Me
 I’m a Fullstack Developer student passionate about creating **modern web applications**. I enjoy learning new technologies, exploring frontend and backend development, and applying my skills in real projects.  
 I’m particularly focused on **React**, **Tailwind CSS**, **PHP**, and **MySQL**, aiming to build interactive and responsive web solutions.
