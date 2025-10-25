@@ -8,8 +8,8 @@
   </div>
 
   <p align ="center">
-    <strong>Full-Stack Developer || Future Software Engineer</strong><br />
-    <em>Building intelligent solutions and scalable websites, brick by brick</em>
+    <strong>Full-Stack Developer | Future Software Engineer</strong><br />
+    <em>Building intelligent solutions and scalable websites, brick by brick.</em>
   </p>
 </div>
 
