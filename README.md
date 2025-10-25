@@ -9,7 +9,7 @@
 
   <p align ="center">
     <strong>Full-Stack Developer || Future Software Engineer</strong><br />
-    <em>Building intelligent solutions and scalable applications, one line of code at a time</em>
+    <em>Building intelligent solutions and scalable websites, brick by brick</em>
   </p>
 </div>
 
